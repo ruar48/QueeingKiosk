@@ -1,0 +1,1 @@
+ C:\\Users\\Jomar\ Ruar\\Desktop\\MyFlutter\\QueeingKiosk\\mobile\\.dart_tool\\flutter_build\\c388c655e6da2091bdd4e56cd865da30\\native_assets.yaml: 
